@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-🌟 About Me
+## 🌟 About Me
 
 
-I'm an IT student with a passion for technology and programming. I enjoy learning new skills, exploring different areas of computer science, and challenging myself to solve problems. I may still be learning, but I always try my best to improve and understand how things work. I believe that becoming a good programmer takes patience, creativity, and continuous learning.
+I'm someone who can balance both being outgoing and introverted. I enjoy connecting with others when the situation calls for it, but I also value time alone to think deeply and recharge. I naturally approach challenges like a programmer debugging code, breaking problems down, analyzing them, and finding the most effective solution. Being a problem solver and solution provider is at the core of who I am; I don't just look for quick fixes, I look for sustainable answers. 
 
+### Area of Interest:
 
-💻 Software Development
+- Artificial Intelligence / Machine Learnng
+- Software Engineering / Systems Design
+- Game Development (e.g., Roblox, Unity, Unreal) 🎮
+  
 
-☕ Java Programming
+## Programming Languages
+- Java ☕
 
-🎮 Technology and Computer Exploration
+---
 
-Programming Languages
-Java ☕
+### Midterm Projects
